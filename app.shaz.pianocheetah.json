@@ -43,7 +43,7 @@
                "dest":   "stv",
                "url":    "https://github.com/Stephen-Hazel/stv.git",
                "tag":    "release-2026-10-24",
-               "commit": "7e01da264e2720b5f7058708688d8bb5c31d2c45"
+               "commit": "bbfb0ae437993b1549c0cd6a7cf93f2962a9ac00"
             }
          ]
       }
